@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋! My name is Salman and I'm a Front-end Developer from Bangladesh.</h2>
+<h1 align="center">
+  Welcome to Salman's (Salman) profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
+
+<h3 align="center">A developer passionate about technology.</h3>
 
 ### 
 
@@ -14,17 +19,10 @@
 
 <br />
 
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=mdsalman2022" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mdsalman2022" height="150" alt="languages graph"  />
-</div>
-
 ###
  
 
-###
-
+### 
 ## :computer: Technologies that I know
 <br>
 <p align="center">
@@ -55,12 +53,13 @@
 
 <br clear="both"> 
  
-<h2 align='left'>🎁 Contributions</h2>
-<p align='center'><img align="center" src="https://streak-stats.demolab.com/?user=mdsalman2022" alt="mdsalman2022" /></p>
+<h2 align='left'>🎁 Contributions</h2> 
+<div align="center">
+<img alt="mdsalman2022/stats" src="https://github-readme-stats.vercel.app/api?theme=github_dark&amp;title_color=2EB398&amp;username=mdsalman2022&amp;count_private=true&amp;show_icons=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&title_color=2EB398&layout=compact&langs_count=5&theme=github_dark&hide_border=false&username=mdsalman2022" height="195" alt="languages graph"  />
+  <img alt="mdsalman2022/streak" src="https://github-readme-streak-stats.herokuapp.com?user=mdsalman2022&amp;theme=dark&amp;hide_border=false&amp;background=0d1117&amp;stroke=718F97&amp;ring=2EB398&amp;fire=2EB398&amp;currStreakNum=C6CDCB&amp;sideNums=C6CDCB&amp;currStreakLabel=2EB398&amp;sideLabels=C6CDCB"/>
+  <img alt="mdsalman2022/graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdsalman2022&amp;theme=github_dark"/>
+</div>
 
 
-<p align="center">
-<img align="center" src='https://metrics.lecoq.io/mdsalman2022'/>
-</p>
 
-###
