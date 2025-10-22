@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hi there, I'm Salman 👋
+  Hi there, I'm Salman
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3 align="center">A developer passionate about technology.</h3>
+<p align="center">Hi, I am a developer passionate about web development and always eager to learn new technologies. I love building quality applications and solving complex problems. Excited to collaborate and grow with a great team.</p>
 
 ### 
 
