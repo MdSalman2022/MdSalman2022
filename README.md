@@ -1,5 +1,5 @@
 <h1 align="center">
-  Welcome to Salman's (Salman) profile!
+  Hi there, I'm Salman 👋
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
@@ -7,15 +7,40 @@
 
 ### 
 
+## 🚀 About Me
+
+Full Stack Developer from **Dhaka, Bangladesh** with expertise in building scalable web applications. Currently working at **Gruham.ai** (May 2023 – Present) where I design and optimize complex features serving thousands of users. I specialize in translating design requirements into performant, user-friendly applications using modern web technologies.
+
+**Key Focus Areas:**
+- Building high-performance React applications
+- Designing scalable Node.js backends
+- Cloud infrastructure (AWS, Firebase)
+- Real-time features (Chat, Live Stream, Activity Feeds)
+- Performance optimization & SEO
+  
 ## :mailbox: Reach me out
 
 <br />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mehedihasan-salman/"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png"></a>
-  <a href="https://www.facebook.com/MD.MehediHasanSalman"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png"></a>
-  <a href="https://twitter.com/FifaPro2k17"><img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"></a>
-</p>
+<div align="center"> 
+
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; padding: 20px;">
+  <a href="https://mehediportfolio-omega.vercel.app" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/mehedihasan-salman" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+  </a> 
+  <a href="mailto:mehedi.salman102@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+  </a>
+  <a href="https://www.facebook.com/MD.MehediHasanSalman" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="40" />
+  </a> 
+</div>
+
+</div>
+
 
 <br />
 
